@@ -10,7 +10,7 @@ class Hello2ApplicationTests {
 
     @Test
     void contextLoads() {
-
+        log.info("Log Test");
     }
 
 }
